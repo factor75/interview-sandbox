@@ -1,3 +1,10 @@
+## Factor_ Interview Sandbox
+
+Thanks for opening this sandbox for your interview.
+You should clone this repo and ensure `yarn start` runs without error before your interview.
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

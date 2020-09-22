@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "id": "001",
+      "title": "Chicken Fajita Bowl",
+      "rating": 4.87
+    },
+    {
+      "id": "002",
+      "title": "Mujadara Rice and Lentils",
+      "rating": 4.21
+    },
+    {
+      "id": "003",
+      "title": "Paleo Burger",
+      "rating": 4.73
+    },
+    {
+      "id": "004",
+      "title": "Green Pea and Fennel Risotto",
+      "rating": 3.99
+    }
+  ]
+}

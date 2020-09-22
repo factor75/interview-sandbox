@@ -1,0 +1,55 @@
+:root {
+  --main-text-color: #141414;
+  --main-link-color: #17a2b8;
+}
+
+.App {
+  color: var(--main-text-color);
+  text-align: center;
+}
+
+.App-link {
+  color: var(--main-link-color);
+}
+
+.Header {
+  align-items: center;
+  border-bottom: 1px solid var(--main-text-color);
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  justify-content: flex-start;
+  height: 80px;
+  padding: 8px 16px;
+}
+
+.Header-button {
+  background-color: transparent;
+  border: 2px solid var(--main-text-color);
+  cursor: pointer;
+  font-size: medium;
+  padding: 4px 8px;
+}
+
+.Header-logo {
+  height: 100%;
+}
+
+.List {
+  margin: 0;
+  padding: 8px;
+  text-align: left;
+}
+
+.List-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 4px;
+  width: 100%;
+}
+
+.List-item-rating {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  min-width: 200px;
+}
