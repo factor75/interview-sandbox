@@ -7,7 +7,7 @@ const ListItem = ({ rating, title }) => {
       {title}
       <span className='List-item-rating'>
         Average rating:
-        <span>
+        <span aria-label={rating}>
           {formatRatingAsStars(rating)}
         </span>
       </span>
